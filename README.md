@@ -13,3 +13,15 @@ LeetCode url: https://leetcode.com/u/faizan1308/
 
 ## Languages
 C++
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/FaizanShaikh1308/DSA-Practice/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/FaizanShaikh1308/DSA-Practice/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
